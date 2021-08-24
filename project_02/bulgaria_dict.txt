@@ -1,0 +1,7 @@
+City:София
+Hottest Temp:28.1
+Coldest Temp:-8.6
+Average Temp:12
+Rainiest Day:07/16/2021
+Days With Rain:138
+Days Without Rain:93

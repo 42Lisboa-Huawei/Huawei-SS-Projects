@@ -1,0 +1,7 @@
+City:Λευκωσία
+Hottest Temp:34.3
+Coldest Temp:5.8
+Average Temp:20
+Rainiest Day:01/19/2021
+Days With Rain:47
+Days Without Rain:184

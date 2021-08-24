@@ -1,0 +1,7 @@
+City:Vilnius
+Hottest Temp:27.1
+Coldest Temp:-19.8
+Average Temp:8
+Rainiest Day:07/06/2021
+Days With Rain:160
+Days Without Rain:71

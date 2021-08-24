@@ -1,0 +1,7 @@
+City:Wien
+Hottest Temp:28.2
+Coldest Temp:-6.4
+Average Temp:13
+Rainiest Day:07/17/2021
+Days With Rain:103
+Days Without Rain:128
